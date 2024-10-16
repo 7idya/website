@@ -1,0 +1,5 @@
+baseURL = 'http://localhost/'
+languageCode = 'ru'
+title = 'Новогодние блюда'
+theme = 'ananke'
+background_color_class = 'bg-red'

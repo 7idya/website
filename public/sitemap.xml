@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost/categories/</loc>
+  </url><url>
+    <loc>http://localhost/posts/</loc>
+  </url><url>
+    <loc>http://localhost/tags/</loc>
+  </url><url>
+    <loc>http://localhost/posts/olivie/</loc>
+  </url><url>
+    <loc>http://localhost/</loc>
+  </url><url>
+    <loc>http://localhost/posts/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F/</loc>
+  </url><url>
+    <loc>http://localhost/posts/my-first-post/</loc>
+  </url>
+</urlset>

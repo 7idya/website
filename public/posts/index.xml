@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Новогодние блюда</title>
+    <link>http://localhost/posts/</link>
+    <description>Recent content in Posts on Новогодние блюда</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <atom:link href="http://localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Главный гость</title>
+      <link>http://localhost/posts/olivie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost/posts/olivie/</guid>
+      <description>&lt;h2 id=&#34;оливье&#34;&gt;Оливье&lt;/h2&gt;&#xA;&lt;p&gt;Продукты (на 10 порций):&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Картофель некрупный, отварной - 10 шт.&lt;/li&gt;&#xA;&lt;li&gt;Морковь отварная - 2 шт.&lt;/li&gt;&#xA;&lt;li&gt;Огурцы соленые - 5 шт.&lt;/li&gt;&#xA;&lt;li&gt;Колбаса вареная - 300 г&lt;/li&gt;&#xA;&lt;li&gt;Яйца отварные - 9 шт.&lt;/li&gt;&#xA;&lt;li&gt;Горошек консервированный - 1 банка&lt;/li&gt;&#xA;&lt;li&gt;Майонез - 300 г&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>История происхождения</title>
+      <link>http://localhost/posts/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost/posts/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F/</guid>
+      <description>&lt;h2 id=&#34;новый-год&#34;&gt;Новый год&lt;/h2&gt;&#xA;&lt;p&gt;Во все времена наступление нового года у всех народов считалось праздником. Люди готовились к нему.&#xA;А у нас в России всегда ли Новый год праздновался 1 января?&lt;/p&gt;&#xA;&lt;p&gt;Новый год отмечали в Древней Руси весной, в марте, когда природа просыпалась от зимней спячки. С 15 века праздник начали встречать 1 сентября, после уборки урожая. В старину в России в новогоднюю ночь по домам ходили ряженые - дети и взрослые, одетые в маски и шкуры животных. Они пели, танцевали, посыпали пол зерном, желая хозяевам богатого урожая, крепкого здоровья, прославляли щедрость хозяев.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>О чем сайт?</title>
+      <link>http://localhost/posts/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Ознакомившись с данным сайтом вы сможете узнать историю происхождения праздника, а так же попробовать приготовить по рецепту всеми любимый салат&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
